@@ -1,6 +1,6 @@
 # Product_Maintenance
 
-Lab3 Assignment done at SAIT
+Lab3 Assignment
 
 Visual Studio 2019, C# Windows Application in ASP.NET 5.0
 
